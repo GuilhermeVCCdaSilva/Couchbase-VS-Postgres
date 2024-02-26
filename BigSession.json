@@ -1,6 +1,7 @@
 {   
     "Line" : 0,
+    "Tab" : "sample",
     ...
 (The remaining content is excluded due to data protection measures, 
-but is a JSON file structured as follows: starting from Line : 0 and with 1.58 MB in size.) 
+but is a JSON file structured as follows: starting from "Line" : 0, "Tab" : "sample", and with 1.58 MB in size.) 
 }
